@@ -18,5 +18,5 @@ module.exports = {
   name: "Conversor para minúsculas",
   description: "Converte texto para letras minúsculas.",
   implemented,
-  execute
+  execute,
 };

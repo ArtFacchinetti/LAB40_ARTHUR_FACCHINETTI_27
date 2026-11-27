@@ -18,5 +18,5 @@ module.exports = {
   name: "Validador de CPF",
   description: "Valida CPF brasileiro considerando dígitos verificadores.",
   implemented,
-  execute
+  execute,
 };

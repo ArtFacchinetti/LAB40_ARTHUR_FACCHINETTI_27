@@ -18,5 +18,5 @@ module.exports = {
   name: "Gerador de slug",
   description: "Converte texto em slug minúsculo, sem acentos e com hífens.",
   implemented,
-  execute
+  execute,
 };

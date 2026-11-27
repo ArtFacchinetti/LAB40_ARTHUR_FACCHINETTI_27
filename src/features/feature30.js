@@ -18,5 +18,5 @@ module.exports = {
   name: "Calculadora de dias até uma data",
   description: "Calcula dias entre referência e data-alvo.",
   implemented,
-  execute
+  execute,
 };

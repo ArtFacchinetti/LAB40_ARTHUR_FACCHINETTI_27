@@ -18,5 +18,5 @@ module.exports = {
   name: "Identificador de maior valor",
   description: "Retorna o maior elemento de uma lista numérica.",
   implemented,
-  execute
+  execute,
 };

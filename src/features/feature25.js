@@ -18,5 +18,5 @@ module.exports = {
   name: "Identificador de ano bissexto",
   description: "Verifica ano bissexto no calendário gregoriano.",
   implemented,
-  execute
+  execute,
 };

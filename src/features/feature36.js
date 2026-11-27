@@ -18,5 +18,5 @@ module.exports = {
   name: "Calculadora de comissão",
   description: "Calcula comissão percentual sobre vendas.",
   implemented,
-  execute
+  execute,
 };

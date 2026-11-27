@@ -18,5 +18,5 @@ module.exports = {
   name: "Calculadora de acréscimo",
   description: "Aplica acréscimo percentual a um valor.",
   implemented,
-  execute
+  execute,
 };

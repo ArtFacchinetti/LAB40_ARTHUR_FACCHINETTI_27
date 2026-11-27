@@ -18,5 +18,5 @@ module.exports = {
   name: "Calculadora de parcelamento",
   description: "Divide valor em parcelas iguais sem juros.",
   implemented,
-  execute
+  execute,
 };

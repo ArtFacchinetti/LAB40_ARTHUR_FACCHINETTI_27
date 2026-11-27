@@ -18,5 +18,5 @@ module.exports = {
   name: "Validador de e-mail",
   description: "Verifica formato básico de endereço de e-mail.",
   implemented,
-  execute
+  execute,
 };

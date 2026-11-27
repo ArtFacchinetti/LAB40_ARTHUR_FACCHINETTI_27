@@ -18,5 +18,5 @@ module.exports = {
   name: "Calculadora de média",
   description: "Calcula média aritmética de uma lista de notas/valores.",
   implemented,
-  execute
+  execute,
 };

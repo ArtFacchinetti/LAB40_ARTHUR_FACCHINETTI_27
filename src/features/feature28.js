@@ -18,5 +18,5 @@ module.exports = {
   name: "Calculadora de dias entre datas",
   description: "Calcula diferença absoluta em dias entre duas datas.",
   implemented,
-  execute
+  execute,
 };

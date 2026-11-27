@@ -18,5 +18,5 @@ module.exports = {
   name: "Contador de caracteres",
   description: "Conta caracteres de uma string.",
   implemented,
-  execute
+  execute,
 };
