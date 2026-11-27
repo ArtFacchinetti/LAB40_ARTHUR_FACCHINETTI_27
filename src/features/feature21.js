@@ -18,5 +18,5 @@ module.exports = {
   name: "Soma de elementos",
   description: "Soma todos os elementos de uma lista numérica.",
   implemented,
-  execute
+  execute,
 };

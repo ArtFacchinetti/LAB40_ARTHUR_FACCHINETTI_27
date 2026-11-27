@@ -18,5 +18,5 @@ module.exports = {
   name: "Contador de palavras",
   description: "Conta palavras separadas por espaços.",
   implemented,
-  execute
+  execute,
 };

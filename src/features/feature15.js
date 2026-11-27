@@ -18,5 +18,5 @@ module.exports = {
   name: "Removedor de espaços duplicados",
   description: "Remove espaços repetidos e espaços nas extremidades.",
   implemented,
-  execute
+  execute,
 };

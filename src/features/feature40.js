@@ -18,5 +18,5 @@ module.exports = {
   name: "Gerador de número aleatório",
   description: "Gera inteiro pseudoaleatório entre mínimo e máximo, inclusive.",
   implemented,
-  execute
+  execute,
 };

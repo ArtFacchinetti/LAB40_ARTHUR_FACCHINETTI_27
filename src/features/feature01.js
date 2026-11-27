@@ -18,5 +18,5 @@ module.exports = {
   name: "Calculadora de porcentagem",
   description: "Calcula quanto representa um percentual de um valor.",
   implemented,
-  execute
+  execute,
 };

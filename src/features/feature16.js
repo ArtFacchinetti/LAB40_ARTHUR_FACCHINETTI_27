@@ -18,5 +18,5 @@ module.exports = {
   name: "Gerador de iniciais",
   description: "Retorna as iniciais de um nome completo.",
   implemented,
-  execute
+  execute,
 };

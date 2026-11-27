@@ -18,5 +18,5 @@ module.exports = {
   name: "Calculadora de fatorial",
   description: "Calcula o fatorial de um inteiro não negativo.",
   implemented,
-  execute
+  execute,
 };

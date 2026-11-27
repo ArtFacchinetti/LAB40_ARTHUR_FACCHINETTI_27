@@ -18,5 +18,5 @@ module.exports = {
   name: "Classificador de conceito",
   description: "Converte nota de 0 a 10 em conceito.",
   implemented,
-  execute
+  execute,
 };

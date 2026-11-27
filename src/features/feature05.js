@@ -18,5 +18,5 @@ module.exports = {
   name: "Conversor de medidas",
   description: "Converte metros, centímetros e quilômetros.",
   implemented,
-  execute
+  execute,
 };

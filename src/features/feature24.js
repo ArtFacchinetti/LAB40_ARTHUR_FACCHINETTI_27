@@ -18,5 +18,5 @@ module.exports = {
   name: "Separador de positivos e negativos",
   description: "Separa positivos, negativos e zeros em grupos.",
   implemented,
-  execute
+  execute,
 };

@@ -18,5 +18,5 @@ module.exports = {
   name: "Inversor de texto",
   description: "Inverte a sequência de caracteres de um texto.",
   implemented,
-  execute
+  execute,
 };

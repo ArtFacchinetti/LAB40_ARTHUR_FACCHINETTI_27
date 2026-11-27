@@ -18,5 +18,5 @@ module.exports = {
   name: "Filtro de números ímpares",
   description: "Retorna somente os números ímpares de uma lista.",
   implemented,
-  execute
+  execute,
 };

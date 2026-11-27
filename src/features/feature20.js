@@ -18,5 +18,5 @@ module.exports = {
   name: "Remoção de duplicados",
   description: "Remove valores repetidos preservando a primeira ocorrência.",
   implemented,
-  execute
+  execute,
 };

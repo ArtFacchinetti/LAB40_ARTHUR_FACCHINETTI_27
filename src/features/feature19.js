@@ -18,5 +18,5 @@ module.exports = {
   name: "Identificador de menor valor",
   description: "Retorna o menor elemento de uma lista numérica.",
   implemented,
-  execute
+  execute,
 };

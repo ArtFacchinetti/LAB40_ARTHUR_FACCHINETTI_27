@@ -44,7 +44,12 @@ const modules = [
 
 // Retorna apenas os metadados públicos dos módulos.
 function list() {
-  return modules.map(({ id, name, description, implemented }) => ({ id, name, description, implemented }));
+  return modules.map(({ id, name, description, implemented }) => ({
+    id,
+    name,
+    description,
+    implemented,
+  }));
 }
 
 // Localiza um módulo pelo identificador.

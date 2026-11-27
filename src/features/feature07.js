@@ -18,5 +18,5 @@ module.exports = {
   name: "Verificador de número primo",
   description: "Determina se um inteiro é primo.",
   implemented,
-  execute
+  execute,
 };

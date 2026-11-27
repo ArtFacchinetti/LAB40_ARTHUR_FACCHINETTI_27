@@ -18,5 +18,5 @@ module.exports = {
   name: "Verificador de palíndromo",
   description: "Verifica palíndromo ignorando espaços, pontuação e caixa.",
   implemented,
-  execute
+  execute,
 };
