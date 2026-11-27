@@ -18,5 +18,5 @@ module.exports = {
   name: "Calculadora de idade",
   description: "Calcula idade completa na data atual ou de referência.",
   implemented,
-  execute
+  execute,
 };

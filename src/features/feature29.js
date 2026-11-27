@@ -18,5 +18,5 @@ module.exports = {
   name: "Formatador de datas",
   description: "Formata data ISO como DD/MM/AAAA.",
   implemented,
-  execute
+  execute,
 };

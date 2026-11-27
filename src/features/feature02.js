@@ -18,5 +18,5 @@ module.exports = {
   name: "Calculadora de desconto",
   description: "Calcula o preço final após desconto percentual.",
   implemented,
-  execute
+  execute,
 };

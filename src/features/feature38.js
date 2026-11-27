@@ -16,7 +16,8 @@ function execute(input) {
 module.exports = {
   id: 38,
   name: "Validador de senha",
-  description: "Verifica tamanho mínimo, maiúscula, minúscula, número e caractere especial.",
+  description:
+    "Verifica tamanho mínimo, maiúscula, minúscula, número e caractere especial.",
   implemented,
-  execute
+  execute,
 };

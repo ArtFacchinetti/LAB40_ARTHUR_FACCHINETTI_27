@@ -18,5 +18,5 @@ module.exports = {
   name: "Conversor de temperatura",
   description: "Converte Celsius para Fahrenheit e Fahrenheit para Celsius.",
   implemented,
-  execute
+  execute,
 };

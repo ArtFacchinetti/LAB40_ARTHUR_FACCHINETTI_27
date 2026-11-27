@@ -18,5 +18,5 @@ module.exports = {
   name: "Filtro de números pares",
   description: "Retorna somente os números pares de uma lista.",
   implemented,
-  execute
+  execute,
 };

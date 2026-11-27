@@ -18,5 +18,5 @@ module.exports = {
   name: "Calculadora de frete",
   description: "Calcula frete por distância e tarifa por quilômetro.",
   implemented,
-  execute
+  execute,
 };

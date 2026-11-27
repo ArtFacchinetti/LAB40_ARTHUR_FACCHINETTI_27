@@ -18,5 +18,5 @@ module.exports = {
   name: "Classificador de faixa etária",
   description: "Classifica idade em criança, adolescente, adulto ou idoso.",
   implemented,
-  execute
+  execute,
 };

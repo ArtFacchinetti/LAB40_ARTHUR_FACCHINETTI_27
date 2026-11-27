@@ -18,5 +18,5 @@ module.exports = {
   name: "Ordenador numérico",
   description: "Ordena números em ordem crescente.",
   implemented,
-  execute
+  execute,
 };

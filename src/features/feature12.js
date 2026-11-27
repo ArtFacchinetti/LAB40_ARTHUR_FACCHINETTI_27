@@ -18,5 +18,5 @@ module.exports = {
   name: "Conversor para maiúsculas",
   description: "Converte texto para letras maiúsculas.",
   implemented,
-  execute
+  execute,
 };
